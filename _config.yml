@@ -1,6 +1,7 @@
 title: Juho Ylä-Jääski # your name (or website title) here
 logo: "/images/face.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br>
   <a href="https://www.linkedin.com/in/juho-yl%C3%A4-j%C3%A4%C3%A4ski-191788193/">View My LinkedIn Profile</a>
 
 theme: jekyll-theme-minimal

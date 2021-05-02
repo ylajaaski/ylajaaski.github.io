@@ -1,28 +1,27 @@
-## Portfolio
+## Biography
+
+I am a Master's student at Aalto University, Finland, majoring in Machine Learning, Data Science, and Artificial Intelligence (MACADAMIA). During my studies, I have completed multiple master's level machine learning courses such as Bayesian Data Analysis, Artificial Intelligence, Machine Learning: Supervised Methods, Reinforcement learning, Gaussian Processes, Machine Learning: Advanced Probabilistic Methods, and Modeling Biological Networks. Currently, I am thriving towards an academic career in Machine Learning.
+
+On top of my studies, I like to be active in my free time, I have been keen on golfer for over a decade already. Recently, I have also started bouldering. 
 
 ---
 
-### Category Name 1
+## Projects
 
-[Project 1 Title](/sample_page)
+[Using a Policy Gradient Algorithm to Play Pong](/projects/reinforcement)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Identification of Gene Regulatory Network](/projects/modeling)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Approach Accuracy of Professional Golfers on the PGA Tour](projects/bayes)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Fitting and Visualization of a Regression Model](projects/regression)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
