@@ -9,7 +9,7 @@ On top of my studies, I like to be active in my free time, I have been keen on g
 ## Projects
 
 [Using a Policy Gradient Algorithm to Play Pong](/projects/reinforcement)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/action_distr.pdf?raw=true"/>
 
 ---
 [Identification of Gene Regulatory Network](/projects/modeling)
