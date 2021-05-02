@@ -13,15 +13,15 @@ On top of my studies, I like to be active in my free time, I have been keen on g
 
 ---
 [Identification of Gene Regulatory Network](/projects/modeling)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/all.png?raw=true"/>
 
 ---
 [Approach Accuracy of Professional Golfers on the PGA Tour](projects/bayes)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dens8.png?raw=true"/>
 
 ---
 
 [Fitting and Visualization of a Regression Model](projects/regression)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/exampleFig.png?raw=true"/>
 
 ---
