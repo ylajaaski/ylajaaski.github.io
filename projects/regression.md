@@ -7,6 +7,6 @@ The primary motivation of the project was to create a program where the user of 
 
 **Results:** The motivation of this project was to create a visualization tool for data sets and regression models. This program supports three types of regression models: linear, exponential, and logarithmic. Data sets, consisting of two-dimensional data points, can be easily imported, and analyzing the data sets together with the constructed regression models is enjoyable with the plotting tool where numerous modifications for the plot are supported, including zooming in and out. The final program is an easy tool to create plots together with regression models, and precise data analysis is also possible. The user interface and one example plot are presented below. 
 
-<img src="images/mainpage.png?raw=true"/>
+![User interface](/images/mainpage.png)
 
-<img src="images/exampleFig.png?raw=true"/>
+![Example plot](/images/exampleFig.png)
