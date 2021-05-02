@@ -1,31 +1,12 @@
-## This can be your internal website page / project page
+## Fitting and Visualization of a Regression Model
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project Description:** This project was completed as a part of the course \textit{CS-C2120 - Ohjelmointistudio 2}, and the project concentrated on the visualization of three types of regression models: linear, exponential, and logarithmic.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+The primary motivation of the project was to create a program where the user of the program can visualize the trends of different data sets. The user first imports data sets, consisting of data points, into the program. These data sets are two-dimensional, meaning that each of the data points contains two variables $(x,$ $y)$. The user can then visualize these data sets with a plotting tool that enables the user to view the data points with the regression curve. The plotting tool also provides some additional features to modify the plot.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+**Results:** The motivation of this project was to create a visualization tool for data sets and regression models. This program supports three types of regression models: linear, exponential, and logarithmic. Data sets, consisting of two-dimensional data points, can be easily imported, and analyzing the data sets together with the constructed regression models is enjoyable with the plotting tool where numerous modifications for the plot are supported, including zooming in and out. The final program is an easy tool to create plots together with regression models, and precise data analysis is also possible. The user interface and one example plot are presented below. 
 
-### 2. Assess assumptions on which statistical inference will be based
+<img src="images/mainpage.png?raw=true"/>
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="images/exampleFig.png?raw=true"/>
