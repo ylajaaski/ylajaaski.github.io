@@ -12,7 +12,7 @@ On top of my studies, I like to be active in my free time, I have been keen on g
 <img src="images/action_distr.png?raw=true"/>
 
 ---
-[Identification of Gene Regulatory Network](/projects/modeling)
+[Identification of Gene Regulatory Network](/projects/mbn)
 <img src="images/all.png?raw=true"/>
 
 ---
