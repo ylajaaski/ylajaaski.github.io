@@ -1,6 +1,6 @@
 ## Identification of Gene Regulatory Network
 
-**Project description:** The goal of this project was to study computational/statistical methods which were then used to infer the structure of a 5-gene network using gene expression time-course data only. The data was provided in the course. Our first idea was to tackle the problem with two simple approaches - relevance network and Bayesian network. With these simple approaches only slightly better results in comparison to a random classifier were achieved, thus, we also did a more sophisticated approach with an ODE-system.
+**Project description:** This project was part of the course *CS-E5885 - Modeling Biological Networks D*. The goal of the project was to study computational/statistical methods which were then used to infer the structure of a 5-gene network using gene expression time-course data only. The data was provided in the course. Our first idea was to tackle the problem with two simple approaches - relevance network and Bayesian network. With these simple approaches only slightly better results in comparison to a random classifier were achieved, thus, we also did a more sophisticated approach with an ODE-system.
 
 ![simple](/images/roc_corr_bayes.png)
 
