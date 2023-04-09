@@ -1,6 +1,6 @@
 ## Biography
 
-I am a Master's student at Aalto University, Finland, majoring in Machine Learning, Data Science, and Artificial Intelligence (MACADAMIA). During my studies, I have completed multiple master's level machine learning courses such as Bayesian Data Analysis, Artificial Intelligence, Machine Learning: Supervised Methods, Reinforcement learning, Gaussian Processes, Machine Learning: Advanced Probabilistic Methods, and Modeling Biological Networks. Currently, I am thriving towards an academic career in Machine Learning.
+I am a Master's student at Aalto University, Finland, majoring in Machine Learning, Data Science, and Artificial Intelligence (MACADAMIA). During my studies, I have completed multiple master's level machine learning courses such as Bayesian Data Analysis, Artificial Intelligence, Machine Learning: Supervised Methods, Reinforcement learning, Gaussian Processes, Machine Learning: Advanced Probabilistic Methods, and Modeling Biological Networks. Currently, I am thriving towards a career in Machine Learning.
 
 On top of my studies, I like to be active in my free time, I have been keen on golfer for over a decade already. Recently, I have also started bouldering. 
 
